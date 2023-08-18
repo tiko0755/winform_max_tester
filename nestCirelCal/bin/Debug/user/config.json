@@ -1,0 +1,106 @@
+{
+    "dmm_config": {
+        "com": "com1",
+        "baud": 9600,
+        "bits": 8,
+        "stop": 1,
+        "verify": 0
+    },
+    "dut_config": {
+        "com": "com2",
+        "baud": 115200,
+        "bits": 8,
+        "stop": 1,
+        "verify": 0
+    },
+    "test": {
+        "counter": {
+            "total": 0,
+            "failure": 0,
+            "success": 0
+        },
+        "table_col": [
+            {
+                "name": "序号",
+                "width": 60
+            },
+            {
+                "name": "测项名称",
+                "width": 180
+            },
+            {
+                "name": "测项描述",
+                "width": 420
+            },
+            {
+                "name": "下限",
+                "width": 60
+            },
+            {
+                "name": "上限",
+                "width": 60
+            },
+            {
+                "name": "单位",
+                "width": 60
+            },
+            {
+                "name": "结果",
+                "width": 60
+            },
+            {
+                "name": "判断",
+                "width": 100
+            },
+            {
+                "name": "时间(S)",
+                "width": 80
+            }
+        ],
+        "table_row": [
+            {
+                "name": "连接蓝牙",
+                "description": "通过无线充拿到MAC后连接蓝牙,成功返回MAC,判断合法性",
+                "lower": 6,
+                "upper": 6,
+                "unit": "bytes"
+            },
+            {
+                "name": "读取SN",
+                "description": "读取SN,判断长度",
+                "lower": 22,
+                "upper": 22,
+                "unit": "bytes"
+            },
+            {
+                "name": "PCBA自检",
+                "description": "读取PCBA自检结果",
+                "lower": 0,
+                "upper": 0,
+                "unit": "数值"
+            },
+            {
+                "name": "RSSI判断",
+                "description": "读取蓝牙信号强度,并判断",
+                "lower": -60,
+                "upper": 0,
+                "unit": "dBm"
+            },
+            {
+                "name": "笔尖压力测试",
+                "description": "按压笔尖并从DUT和压力表读回压力值,对比差值",
+                "lower": 0,
+                "upper": 5,
+                "unit": "g"
+            },
+            {
+                "name": "休眠电流",
+                "description": "使得DUT处于休眠状态,测试其总的输入电流",
+                "lower": 0,
+                "upper": 60,
+                "unit": "uA"
+            }
+        ]
+    },
+    "usr_root": "C:\\Users\\anyu\\userInfo\\"
+}

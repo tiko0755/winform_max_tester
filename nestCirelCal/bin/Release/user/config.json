@@ -1,0 +1,56 @@
+{
+    "items": [
+        {
+            "name": "连接蓝牙",
+            "description": "通过蓝牙连接到DUT",
+            "lower": 0,
+            "upper": 999,
+            "uint": "N.A.",
+            "fail_stop": false
+        },
+        {
+            "name": "读取SN",
+            "description": "读取SN并判断其字符串长度",
+            "lower": 22,
+            "upper": 22,
+            "uint": "字节",
+            "fail_stop": false
+        },
+        {
+            "name": "RSSI测试",
+            "description": "判断DUT的信号强度",
+            "lower": -999,
+            "upper": -20,
+            "uint": "dBm",
+            "fail_stop": false
+        }
+    ],
+    "counter": {
+        "total": 0,
+        "pass": 0,
+        "percent": 0
+    },
+    "hw_setting": {
+        "dmm": {
+            "com": "com1",
+            "baud": 9600,
+            "bits": 8,
+            "stop": 1,
+            "verify": 0
+        },
+        "cirel": {
+            "com": "com2",
+            "baud": 115200,
+            "bits": 8,
+            "stop": 1,
+            "verify": 0
+        },
+        "control_board": {
+            "com": "com3",
+            "baud": 115200,
+            "bits": 8,
+            "stop": 1,
+            "verify": 0
+        }
+    }
+}

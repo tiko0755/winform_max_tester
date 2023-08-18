@@ -1,0 +1,258 @@
+[
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": true,
+        "cmd": "AB CD EF 00",
+        "comment": "发送十六进制",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "先点击命令框,然后单击[<<宽]调整宽度",
+        "squ": 0,
+        "delay": 1000,
+        "pos": 100
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    },
+    {
+        "isHexChecked": false,
+        "cmd": "hello,world",
+        "comment": "问候世界",
+        "squ": 0,
+        "delay": 1000,
+        "pos": -50
+    }
+]

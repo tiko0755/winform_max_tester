@@ -1,0 +1,15 @@
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Release\nestCirelCal.exe.config
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Release\nestCirelCal.exe
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Release\nestCirelCal.pdb
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Release\Newtonsoft.Json.dll
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Release\NLog.dll
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Release\Newtonsoft.Json.xml
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Release\NLog.xml
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Release\nestCirelCal.Form_main.resources
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Release\nestCirelCal.Properties.Resources.resources
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Release\nestCirelCal.csproj.GenerateResource.cache
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Release\nestCirelCal.csproj.CoreCompileInputs.cache
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Release\nestCirelCal.csproj.CopyComplete
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Release\nestCirelCal.exe
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Release\nestCirelCal.pdb
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Release\nestCirelCal.csprojAssemblyReference.cache
