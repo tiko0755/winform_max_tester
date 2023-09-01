@@ -1,0 +1,78 @@
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.exe.config
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.exe
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.pdb
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csprojAssemblyReference.cache
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.Form_main.resources
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.Properties.Resources.resources
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.GenerateResource.cache
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.CoreCompileInputs.cache
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.exe
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.pdb
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Debug\NLog.dll
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Debug\NLog.xml
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.CopyComplete
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Debug\Newtonsoft.Json.dll
+F:\winform\Nest Cirel Cal\nestCirelCal\nestCirelCal\bin\Debug\Newtonsoft.Json.xml
+E:\Tiko\winform\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.exe.config
+E:\Tiko\winform\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.exe
+E:\Tiko\winform\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.pdb
+E:\Tiko\winform\nestCirelCal\nestCirelCal\bin\Debug\Newtonsoft.Json.dll
+E:\Tiko\winform\nestCirelCal\nestCirelCal\bin\Debug\NLog.dll
+E:\Tiko\winform\nestCirelCal\nestCirelCal\bin\Debug\Newtonsoft.Json.xml
+E:\Tiko\winform\nestCirelCal\nestCirelCal\bin\Debug\NLog.xml
+E:\Tiko\winform\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csprojAssemblyReference.cache
+E:\Tiko\winform\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.Form_main.resources
+E:\Tiko\winform\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.Properties.Resources.resources
+E:\Tiko\winform\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.GenerateResource.cache
+E:\Tiko\winform\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.CoreCompileInputs.cache
+E:\Tiko\winform\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.CopyComplete
+E:\Tiko\winform\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.exe
+E:\Tiko\winform\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.pdb
+E:\Tiko\git\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.exe.config
+E:\Tiko\git\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.exe
+E:\Tiko\git\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.pdb
+E:\Tiko\git\nestCirelCal\nestCirelCal\bin\Debug\Newtonsoft.Json.dll
+E:\Tiko\git\nestCirelCal\nestCirelCal\bin\Debug\NLog.dll
+E:\Tiko\git\nestCirelCal\nestCirelCal\bin\Debug\Newtonsoft.Json.xml
+E:\Tiko\git\nestCirelCal\nestCirelCal\bin\Debug\NLog.xml
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csprojAssemblyReference.cache
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.Form_main.resources
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.Properties.Resources.resources
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.GenerateResource.cache
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.CoreCompileInputs.cache
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.CopyComplete
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.exe
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.pdb
+E:\Tiko\git\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.commentDiag.Form_commentDialog.resources
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csprojAssemblyReference.cache
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.commentDiag.Form_commentDialog.resources
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.Form_main.resources
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.Properties.Resources.resources
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.GenerateResource.cache
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.CoreCompileInputs.cache
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.exe
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.pdb
+F:\pprj\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.exe.config
+F:\pprj\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.exe
+F:\pprj\nestCirelCal\nestCirelCal\bin\Debug\nestCirelCal.pdb
+F:\pprj\nestCirelCal\nestCirelCal\bin\Debug\Newtonsoft.Json.dll
+F:\pprj\nestCirelCal\nestCirelCal\bin\Debug\NLog.dll
+F:\pprj\nestCirelCal\nestCirelCal\bin\Debug\Newtonsoft.Json.xml
+F:\pprj\nestCirelCal\nestCirelCal\bin\Debug\NLog.xml
+F:\pprj\nestCirelCal\nestCirelCal\obj\Debug\nestCirelCal.csproj.CopyComplete
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\bin\Debug\nestCirelCal.exe.config
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\bin\Debug\nestCirelCal.exe
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\bin\Debug\nestCirelCal.pdb
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\bin\Debug\Newtonsoft.Json.dll
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\bin\Debug\NLog.dll
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\bin\Debug\Newtonsoft.Json.xml
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\bin\Debug\NLog.xml
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.csprojAssemblyReference.cache
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.commentDiag.Form_commentDialog.resources
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.Form_main.resources
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.Properties.Resources.resources
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.csproj.GenerateResource.cache
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.csproj.CoreCompileInputs.cache
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.csproj.CopyComplete
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.exe
+E:\Tiko\git\AutoTestSystem\winform_app152\nestCirelCal\obj\Debug\nestCirelCal.pdb

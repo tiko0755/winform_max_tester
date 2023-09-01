@@ -1,0 +1,113 @@
+{
+    "board_config": {
+        "com": "com4",
+        "baud": 115200,
+        "bits": 8,
+        "stop": 1,
+        "verify": 0
+    },
+    "dut_config": {
+        "com": "com5",
+        "baud": 115200,
+        "bits": 8,
+        "stop": 1,
+        "verify": 0
+    },
+    "test": {
+        "counter": {
+            "total": 0,
+            "failure": 0,
+            "success": 0
+        },
+        "table_col": [
+            {
+                "name": "序号",
+                "width": 60
+            },
+            {
+                "name": "测项名称",
+                "width": 180
+            },
+            {
+                "name": "测项描述",
+                "width": 420
+            },
+            {
+                "name": "下限",
+                "width": 60
+            },
+            {
+                "name": "上限",
+                "width": 60
+            },
+            {
+                "name": "单位",
+                "width": 60
+            },
+            {
+                "name": "结果",
+                "width": 60
+            },
+            {
+                "name": "判断",
+                "width": 100
+            },
+            {
+                "name": "时间(S)",
+                "width": 80
+            }
+        ],
+        "table_row": [
+            {
+                "name": "测量Buck电压",
+                "description": "测量Buck电压",
+                "lower": 2.8,
+                "upper": 3.2,
+                "unit": "V"
+            },
+            {
+                "name": "测量关机电流",
+                "description": "测量关机状态下的电流",
+                "lower": 5,
+                "upper": 15,
+                "unit": "uA"
+            },
+            {
+                "name": "等待开机指令",
+                "description": "操作员用手快速触摸两次感应区, 通过检测电流判断是否开机",
+                "lower": 5,
+                "upper": 50,
+                "unit": "mA"
+            },
+            {
+                "name": "测量工作电流",
+                "description": "测量工作状态下的电流",
+                "lower": 5,
+                "upper": 8,
+                "unit": "mA"
+            },
+            {
+                "name": "gSensor功能检测",
+                "description": "通过串口读回gSensor是否正常",
+                "lower": 1,
+                "upper": 1,
+                "unit": "bool"
+            },
+            {
+                "name": "测量TX1打码电压",
+                "description": "测量TX1升压之后的直流电压",
+                "lower": 17,
+                "upper": 19,
+                "unit": "V"
+            },
+            {
+                "name": "测量TX2打码电压",
+                "description": "测量TX2升压之后的直流电压",
+                "lower": 17,
+                "upper": 19,
+                "unit": "V"
+            }
+        ]
+    },
+    "usr_root": "C:\\Users\\anyu\\userInfo\\"
+}
